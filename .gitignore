@@ -1,0 +1,21 @@
+
+output/**
+data/raw/**
+
+#config file
+config.yml
+
+# sandbox scripts
+exploratory.R
+index.html
+main.js
+
+# R things
+.RData
+.Rhistory
+.Rproj.user/
+.Ruserdata
+.Renviron
+
+
+.DS_Store
